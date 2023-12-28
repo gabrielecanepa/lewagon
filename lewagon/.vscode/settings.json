@@ -1,0 +1,41 @@
+// These settings are used for live share only.
+{
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features",
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.formatOnSave": false,
+  },
+  "[js]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+  },
+  "eslint.enable": false,
+  "files.exclude": {
+    ".gitignore": true,
+    ".node-version": true,
+    ".ruby-version": true,
+    ".vscode": true,
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "fullstack-challenges": true,
+    "lectures": true,
+  },
+  "editor.fontSize": 13,
+  "editor.links": true,
+  "git.ignoredRepositories": [
+    "*"
+  ],
+  "github.copilot.editor.enableAutoCompletions": false,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "grammarly.files.exclude": [
+    "*"
+  ],
+  "javascript.format.enable": true,
+  "javascript.format.semicolons": "insert",
+  "prettier.enable": false,
+  "terminal.integrated.fontSize": 13,
+  "workbench.colorTheme": "Atom One Light",
+}

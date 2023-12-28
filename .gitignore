@@ -1,3 +1,5 @@
 .DS_Store
 fullstack-challenges/
-lewagon/
+lewagon/*
+!lewagon/.vscode/
+
