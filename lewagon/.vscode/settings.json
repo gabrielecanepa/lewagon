@@ -1,4 +1,4 @@
-// These settings are used for live share only.
+// Settings for live sharing
 {
   "[css]": {
     "editor.defaultFormatter": "vscode.css-language-features",
@@ -21,7 +21,7 @@
     "fullstack-challenges": true,
     "lectures": true,
   },
-  "editor.fontSize": 13,
+  "editor.fontSize": 14,
   "editor.links": true,
   "git.ignoredRepositories": [
     "*"
