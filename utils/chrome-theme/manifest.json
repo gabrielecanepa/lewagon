@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.7",
+  "name": "GitHub Dark",
+  "config": {
+    "colors": {
+      "lewagon_primary": [211, 49, 33],
+      "lewagon_primary_light": [232, 55, 43],
+      "lewagon_secondary": [94, 21, 245],
+      "lewagon_secondary_dark": [51, 21, 110],
+      "lewagon_light": [252, 249, 250],
+      "github_light": [246, 248, 250],
+      "chrome_omnibox_hover": [246, 246, 246]
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": [211, 49, 33],
+      "frame_inactive": [211, 49, 33],
+      "frame_incognito": [211, 49, 33],
+      "frame_incognito_inactive": [211, 49, 33],
+      "background_tab": [211, 49, 33],
+      "background_tab_inactive": [211, 49, 33],
+      "background_tab_incognito": [211, 49, 33],
+      "background_tab_incognito_inactive": [211, 49, 33],
+      "tab_background_text": [255, 255, 255],
+      "tab_background_text_inactive": [255, 255, 255],
+      "tab_background_text_incognito": [255, 255, 255],
+      "tab_background_text_incognito_inactive": [255, 255, 255],
+      "toolbar": [252, 249, 250],
+      "tab_text": [0, 0, 0],
+      "toolbar_button_icon": [51, 21, 110],
+      "toolbar_text": [45, 45, 45],
+      "bookmark_text": [0, 0, 0],
+      "omnibox_background": [255, 255, 255],
+      "omnibox_text": [0, 0, 0],
+      "ntp_background": [255, 255, 255],
+      "ntp_header": [255, 255, 255],
+      "ntp_text": [0, 0, 0],
+      "ntp_link": [0, 0, 0]
+    }
+  }
+}
