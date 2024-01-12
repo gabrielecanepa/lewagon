@@ -21,8 +21,14 @@
     "fullstack-challenges": true,
     "lectures": true,
   },
-  "editor.fontSize": 14,
+  "editor.fontSize": 13,
   "editor.links": true,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.quickSuggestions": {
+    "other": "off",
+    "comments": "off",
+    "strings": "off"
+  },
   "git.ignoredRepositories": [
     "*"
   ],
@@ -36,6 +42,10 @@
   "javascript.format.enable": true,
   "javascript.format.semicolons": "insert",
   "prettier.enable": false,
+  "ruby.rubocop.autocorrectOnSave": false,
   "terminal.integrated.fontSize": 13,
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#fffa5b75",
+  },
   "workbench.colorTheme": "Atom One Light",
 }
