@@ -23,12 +23,12 @@
   },
   "editor.fontSize": 13,
   "editor.links": true,
-  "editor.suggestOnTriggerCharacters": false,
-  "editor.quickSuggestions": {
-    "other": "off",
-    "comments": "off",
-    "strings": "off"
-  },
+  // "editor.suggestOnTriggerCharacters": false,
+  // "editor.quickSuggestions": {
+  //   "other": "off",
+  //   "comments": "off",
+  //   "strings": "off"
+  // },
   "git.ignoredRepositories": [
     "*"
   ],

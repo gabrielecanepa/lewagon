@@ -1,0 +1,27 @@
+<div class="container text-center">
+  <form action="/">
+    <div class="input-group mb-3">
+      <input type="text" class="form-control" placeholder="Search for a flat" name="search_query" value="<%= params[:search_query] %>">
+      <button class="btn btn-outline-secondary" type="submit">Search</button>
+    </div>
+  </form>
+
+  <div class="row">
+    <% if @flats.empty? %>
+      <p>Can't find any flats</p>
+    <% else %>
+      <% @flats.each do |flat| %>
+        <div class="col">
+          <div class="card" style="width: 18rem;">
+            <img src="<%= flat["imageUrl"] %>" class="card-img-top">
+            <div class="card-body">
+              <h5 class="card-title"><%= flat["name"] %></h5>
+              <p class="card-text">€<%= flat["price"] %></p>
+              <a href="#" class="btn btn-primary">See flat</a>
+            </div>
+          </div>
+        </div>
+      <% end %>
+    <% end %>
+  </div>
+</div>
