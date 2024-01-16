@@ -1,4 +1,9 @@
+# Ignore every folder but the following.
+/*/
+!/camps/
+!/lectures/
+!/utils/
+
+# Ignore some files.
+*.zip
 .DS_Store
-fullstack-challenges/
-lewagon/*
-!lewagon/.vscode/
