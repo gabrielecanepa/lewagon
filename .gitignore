@@ -1,9 +1,7 @@
-# Ignore every folder but the following.
-/*/
-!/camps/
-!/lectures/
-!/utils/
+# Private folders
+lewagon/
 
-# Ignore some files.
+# Other files
+*.pak
 *.zip
 .DS_Store

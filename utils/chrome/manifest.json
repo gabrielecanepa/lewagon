@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "version": "1.0.7",
-  "name": "GitHub Dark",
+  "version": "1.0.0",
+  "name": "Le Wagon",
   "config": {
     "colors": {
       "lewagon_primary": [211, 49, 33],
