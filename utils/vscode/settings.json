@@ -37,8 +37,8 @@
   "javascript.format.enable": true,
   "javascript.format.semicolons": "insert",
   "terminal.integrated.fontSize": 13,
-  "workbench.colorCustomizations": {
-    "editor.selectionBackground": "#fffa5b75"
-  },
-  "workbench.colorTheme": "Atom One Light"
+  // "workbench.colorCustomizations": {
+  //   "editor.selectionBackground": "#fffa5b75"
+  // },
+  "workbench.colorTheme": "Default Dark+"
 }
