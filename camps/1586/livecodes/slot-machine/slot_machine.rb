@@ -1,7 +1,7 @@
 # TODO: let's code a SlotMachine class and play!
 class SlotMachine
   # Declare constants (values that don't change) at the top of the class in UPPERCASE
-  SYMBOLS = ["cherry", "seven", "bell", "star", "joker"]
+  SYMBOLS = ["🍒", "7️⃣", "🛎", "⭐️", "🤩"]
 
   # Initialize the instance variables with an empty array of reels
   def initialize

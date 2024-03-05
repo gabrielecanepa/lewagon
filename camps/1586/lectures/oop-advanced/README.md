@@ -5,7 +5,7 @@
 You can download this folder to your computer with:
 
 ```sh
-sh -c "$(curl -s https://raw.githubusercontent.com/gabrielecanepa/lewagon/main/download.sh)" -- camps/1586/oop-advanced
+sh -c "$(curl -s https://raw.githubusercontent.com/gabrielecanepa/lewagon/main/download.sh)" -- camps/1586/lectures/oop-advanced
 ```
 
 ## Usage

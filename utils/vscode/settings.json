@@ -24,16 +24,12 @@
     "fullstack-challenges": true,
     "lectures": true
   },
-  "git.ignoredRepositories": [
-    "*"
-  ],
+  "git.ignoredRepositories": ["*"],
   "github.copilot.editor.enableAutoCompletions": false,
   "github.copilot.enable": {
     "*": false
   },
-  "grammarly.files.exclude": [
-    "*"
-  ],
+  "grammarly.files.exclude": ["*"],
   "javascript.format.enable": true,
   "javascript.format.semicolons": "insert",
   "terminal.integrated.fontSize": 13,
