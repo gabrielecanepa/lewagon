@@ -2,7 +2,10 @@
 fullstack-challenges/
 lewagon/
 
-# Other files
+# Misc
 *.pak
 *.zip
 .DS_Store
+
+# Include files
+!*.sqlite
