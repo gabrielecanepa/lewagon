@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+a {
+  color: #265bbe;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  background: rgb(5, 164, 5);
+  color: white;
+  border-radius: 0.4rem;
+  border-style: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
