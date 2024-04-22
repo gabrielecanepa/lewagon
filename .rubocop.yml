@@ -1,5 +1,6 @@
 AllCops:
   Exclude:
+    - "**/Gemfile.lock"
     - "**/Rakefile"
     - "**/spec/**/*"
     - "**/db/schema.rb"
