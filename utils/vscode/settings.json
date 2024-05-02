@@ -1,4 +1,4 @@
-// Settings for live sharing
+// Settings for live sharing.
 {
   "[css]": {
     "editor.defaultFormatter": "vscode.css-language-features"
@@ -18,13 +18,7 @@
     "**/.DS_Store": true,
     "**/.git": true,
     "**/*.*-shm": true,
-    "**/*.*-wal": true,
-    ".gitignore": true,
-    ".node-version": true,
-    ".ruby-version": true,
-    ".vscode": true,
-    "fullstack-challenges": true,
-    "lectures": true
+    "**/*.*-wal": true
   },
   "git.ignoredRepositories": [
     "*"
